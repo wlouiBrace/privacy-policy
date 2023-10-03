@@ -1,6 +1,6 @@
 # privacy-policy
 
-Hound Ai desktop voice assistant description (project description)
+Hound Ai desktop voice assistant description (application description)
 A desktop voice assistant application is a software program that allows users to control their computers using voice commands.
 Desktop voice assistants can be used to perform a variety of tasks, such as opening and closing applications, searching for information on the web, controlling media playback,
 and interacting with smart home devices.
